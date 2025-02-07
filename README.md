@@ -3,8 +3,8 @@
 This repository includes a comprehensive log of the assignments completed during my training at Capgemini. Below is a detailed overview of the topics covered, assignment submissions, and associated dates.
 
 # Assignment Timeline
-20/01/25
-Topics Covered:
+## 20/01/25
+## Topics Covered:
 
 Key Features of Java: Analyzed core features of Java, including platform independence, object-oriented principles, and automatic memory management.
 Java Components: Discussed the fundamental components of Java such as JVM, JRE, and JDK.
