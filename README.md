@@ -113,29 +113,29 @@ Assignment: Submitted the assignment on OOD principles, Class Diagrams, Object D
 ## 07/02/25
 ## Topics Covered:
 
-Inheritance in Java
+Inheritance in Java:
 Inheritance allows one class to inherit properties and methods from another, promoting code reusability.
 
-Single Level Inheritance
+Single Level Inheritance:
 A class inherits directly from one superclass.
 
-Multilevel Inheritance
+Multilevel Inheritance:
 A class inherits from another class, forming a chain of inheritance.
 
-Hierarchical Inheritance
+Hierarchical Inheritance:
 Multiple subclasses inherit from a single superclass.
 
 Key Features of Inheritance
 Code Reusability: Subclasses reuse code from superclasses.
 Method Overriding: Subclasses can change the behavior of superclass methods.
 Extensibility: New functionality can be added through subclassing.
-Method Overriding
+Method Overriding:
 Subclasses provide their own implementation of superclass methods.
 
-Constructor Inheritance in Java
+Constructor Inheritance in Java:  
 Constructors are not inherited, but a subclass can call the superclass constructor using super().
 
-Polymorphism and Inheritance
+Polymorphism and Inheritance: 
 Polymorphism allows subclasses to override superclass methods, enabling dynamic method calls.
 
 Access Modifiers and Inheritance
