@@ -109,3 +109,35 @@ Sequence Diagrams:
 Showed object interactions over time, detailing the sequence of messages exchanged.
 
 Assignment: Submitted the assignment on OOD principles, Class Diagrams, Object Diagrams, and Sequence Diagrams.
+
+## 07/02/25
+## Topics Covered:
+
+Inheritance in Java
+Inheritance allows one class to inherit properties and methods from another, promoting code reusability.
+
+Single Level Inheritance
+A class inherits directly from one superclass.
+
+Multilevel Inheritance
+A class inherits from another class, forming a chain of inheritance.
+
+Hierarchical Inheritance
+Multiple subclasses inherit from a single superclass.
+
+Key Features of Inheritance
+Code Reusability: Subclasses reuse code from superclasses.
+Method Overriding: Subclasses can change the behavior of superclass methods.
+Extensibility: New functionality can be added through subclassing.
+Method Overriding
+Subclasses provide their own implementation of superclass methods.
+
+Constructor Inheritance in Java
+Constructors are not inherited, but a subclass can call the superclass constructor using super().
+
+Polymorphism and Inheritance
+Polymorphism allows subclasses to override superclass methods, enabling dynamic method calls.
+
+Access Modifiers and Inheritance
+Access modifiers (public, private, protected, default) control visibility of superclass members in subclasses.
+Assignment: - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance.
