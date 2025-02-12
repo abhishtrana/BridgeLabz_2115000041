@@ -168,3 +168,20 @@ Interface: Studied the definition and usage of interfaces in Java. Focused on ho
 Abstract Class: Discussed abstract classes in Java, explaining how they provide a blueprint for subclasses with abstract methods that must be implemented. Covered the distinction between abstract classes and interfaces, and when to use each.
 
 Assignment-: Submitted the assignment on Encapsulation, Polymorphism, Interface and Abstract Class.
+
+## 12/02/25
+## Topics Covered:
+
+Single Linked List:
+
+Introduction to singly linked lists, focusing on the structure where each node contains data and a reference (next) to the next node in the sequence. Key operations covered include inserting nodes at the beginning, end, or at a specific position, deleting nodes by value or position, searching for nodes, and traversing the entire list.
+
+Double Linked List:
+
+Introduction to doubly linked lists, where each node has two references: one to the next node and one to the previous node, allowing for bidirectional traversal. Topics covered include insertion operations at the beginning, end, or a specific position, deletion of nodes, and performing both forward and reverse traversals to manipulate or display data.
+
+Circular Linked List:
+
+A circular linked list, where the last node’s next pointer points back to the first node, creating a loop-like structure. The key topics include performing insertions and deletions while maintaining the circular nature, searching for nodes, and calculating the total number of nodes. Traversing the list also involves ensuring the circular structure is respected, where iteration loops back to the head after reaching the last node.
+
+Assignment-: Submitted the assignment on Single, Double and Circular Linked List.
